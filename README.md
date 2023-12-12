@@ -1,6 +1,4 @@
-# User management system using angular and laravel
-## Grab the whole course on udemy
-https://www.udemy.com/course/corso-angular-5-typescript-laravel-5-guida-pratica-sviluppo-web/?couponCode=2021-06-02
+# User management system using angular and mysql
 
 ## Development server
 
